@@ -1,0 +1,4 @@
+O irb permite rodar o código sem ser em um arquivo proprio. Digitando irb no terminal é possivel abrir o campo de comandos
+
+load 'path' roda o script do arquivo
+exit encerra o irb

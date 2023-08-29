@@ -1,0 +1,3 @@
+1 - symbol - Simbolo é um tipo de dado semelhante a string, só que é um objeto imutável. Duas strings identicas podem ser objetos diferentes, mas o um simbolo é apenas um objeto, ocupando sempre o mesmo espaço na memória. Um simbolo sempre é definido começando com dois pontos: seguido de seu nome
+
+2 - hash - Representa uma coleção de dados organizados por chaves únicas e seus valores. São definidos por chaves "{}"
