@@ -1,0 +1,4 @@
+1 - for percorre uma coleção de elementos
+2 - times executa uma repetição por um determinado numero de vezes
+3 - while repete um bloco de código enquanto sua condição for verdadeira
+4 - do/while - loop cria o laço de repetição que só é parado quando a instrução do break for verdadeira
