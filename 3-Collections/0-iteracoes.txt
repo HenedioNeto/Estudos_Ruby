@@ -1,0 +1,7 @@
+Percorre os elementos de uma collection
+
+1 - Each - Percorre uma collection de forma parecida ao for, porém, não sobrescreve o valor da variavel fora da estrutura de repetição
+
+2 - Map - Cria um array baseado no valor de outro array existente
+
+3 - Select - Realiza uma seleção de elementos presentes na collection através de uma condição pré definida. Traz somente os resultados que passaram nessa condição

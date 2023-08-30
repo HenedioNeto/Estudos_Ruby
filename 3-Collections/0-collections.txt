@@ -1,0 +1,4 @@
+Collection representa conjunto de dados semelhantes em uma única unidade
+
+-Arrays e Hash são os principais
+
