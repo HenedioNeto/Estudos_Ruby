@@ -6,19 +6,19 @@ loop do
     num1 = gets.chomp.to_i
     puts 'Digite outro numero: '
     num2 = gets.chomp.to_i
-    puts 'Escolha um operador (+, -, *, /) ou digite 1 para sair'
+    puts 'Escolha uma operação 1(Somar), 2(Subtrair), 3(Multiplicar) e 4(Dividir) ou digite 5 para sair'
     operador = gets.chomp.to_i
 
-    if operador == +
+    if operador == 1
         puts "A soma é #{num1 + num2}"
-    elsif operador == -
+    elsif operador == 2
         puts "A subtração é #{num1 - num2}"
-    elsif operador == *
+    elsif operador == 3
         puts "A multiplicação é #{num1 * num2}"
-    elsif operador == \
+    elsif operador == 4
         puts "A divisão é #{num1 / num2}"
-    elsif operador == 1
-        break if operador == 1
+    elsif operador == 5
+        break if operador == 5
     else
         result = 'Opção invalida'
     end
