@@ -1,0 +1,6 @@
+Gems são pacotes que oferecem funcionalidades para resolver necessidades especificas de um programa ruby
+É igual biblioteca em outras linguagens
+São codigos ja pré existentes que programadores reutilizam ao criar um software
+
+Para instalar diversas gems se utiliza um bundler, o bundler agrega varias gems em um arquivo e depois instala
+Criando um arquivo GemFile e colocando a fonte e as gems necessarias é possivel rodar "bundler" no terminal e instala-las 

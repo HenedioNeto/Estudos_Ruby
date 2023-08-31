@@ -1,0 +1,1 @@
+Metodos são formas de organizar instruções em um programa, permitindo que trecho de codigo sejam reutilizaveis
