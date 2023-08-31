@@ -1,0 +1,5 @@
+Paradigma de programação para lidar com softwares grandes e complexos
+Encapsula códigos permitindo reutiliza-los
+Mapea para o software objetos da vida real
+Propriedades são as propriedades que o objeto possui na vida real
+Métodos são ações dos objetos

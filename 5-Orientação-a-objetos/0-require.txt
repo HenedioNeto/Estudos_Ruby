@@ -1,0 +1,1 @@
+Require permite que possamos carregar arquivos ruby escrito por nós mesmos, inclusive classes, atributos e métodos

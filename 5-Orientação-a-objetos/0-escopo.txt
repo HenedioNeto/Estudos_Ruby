@@ -1,0 +1,11 @@
+O escopo define onde a variavel vai estar disponivel dentro do programa
+
+Os 4 tipos no ruby são
+    - Variavel Local: é declarada com a primeira letra de seu nome sendo minuscula ou sublinhada. Pode ser acessada apenas onde foi criada. Se voce definir uma variavel local dentro de uma classe ela somente estara disponivel dentro desta classe, se foi definida dentro de um método, apenas dentro do metodo e assim por diante.
+
+    - Variavel Global: é declarada pelo prefixo $. Pode ser acessada em qualquer lugar do programa. Seu uso não é recomendado pois sua visibilidade em qualquer lugar do código pode fazer com que seja alterada em inumeros locais, ocasionando dificuldade de rastreamento de bugs.
+
+    - Variavel de Classe: declarada pelo prefixo @@. Pode ser acessada em qualquer lugar da classe onde foi declarada e seu valor é compartilhado entre todas as instancias de sua classe.
+
+    - Variavel de Instancia: declarada pelo prefixo @. Semelhante a variavel de classe com diferença de que seu valor não é compartilhado em todas instancias de sua classe.
+

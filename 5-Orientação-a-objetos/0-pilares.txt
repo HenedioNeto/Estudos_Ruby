@@ -1,0 +1,17 @@
+Abstração:
+    - Abstrai uma entidade do mundo real e a transforma em uma classe
+Encapsulamento:
+    - Divide um programa em diversas partes tornando-o flexivel, facil de modifical e incluir novas funcionalidades
+Herança:
+    - Habilidade de criar uma Classe com caracteristicas de outra Classe ja existente. A herança traz o reuso e reaproveitamento de códigos
+Polimorfismo:
+    - Capacidade de utilizar um método de formas diferentes para objetos diferentes
+
+Objeto carro:
+    -Nesse exemplo o carro possui como Classe a sua planta. A partir dessa planta podemos criar diversos outros carros
+    - Informações do carro:
+        - Marca: Camaro
+        - Cor: Amarelo
+        - Ano de Lançamento: 1960(não sei)
+        - Ações(Métodos): Ligar, Acelerar e Frear
+            - Dentro de métodos haverá o código que dara as intruções para sua execução
